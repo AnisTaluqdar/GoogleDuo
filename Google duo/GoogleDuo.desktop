@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Google Duo
+Comment=Unofficial Google Duo desktop application
+Icon=/opt/GoogleDuo/resources/app/icon.png
+Exec=/opt/GoogleDuo/GoogleDuo
+Actions=
+Categories=X-XFCE;Internet;
+Name[en_AU.utf8]=Google Duo

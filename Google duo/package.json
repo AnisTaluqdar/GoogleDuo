@@ -1,0 +1,28 @@
+{
+  "name": "GoogleDuo",
+  "version": "1.0.3",
+  "pkgrel": "1",
+  "description": "Google Duo desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "Google",
+    "Duo",
+    "Google Duo"
+  ],
+  "author": "Corey Bruce",
+  "license": "GPL",
+  "devDependencies": {
+    "electron": "^13.1.8",
+    "electron-builder": "^22.11.7"
+  },
+  "dependencies": {
+    "electron-context-menu": "^3.1.1",
+    "electron-packager": "^15.3.0"
+  }
+}
